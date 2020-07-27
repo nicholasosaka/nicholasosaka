@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Nikko 👋
+I'm an undergraduate student majoring in Computer Science and Philosophy at UNC Charlotte. Find me reading books or drinking coffee.
 
 <!--
 **nosaka0/nosaka0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
