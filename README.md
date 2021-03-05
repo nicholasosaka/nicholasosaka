@@ -1,8 +1,8 @@
 ### Hi, I'm Nikko 👋
 I'm an undergraduate student majoring in Computer Science and Philosophy at UNC Charlotte. Find me reading books or drinking coffee.
 
-* 🔨  I’m currently working on Spezia, a mobile, social, health-focused recipebook powered with machine learning.
-* 🌱  I’m currently learning natural language processing and machine learning, among other courses.
+* 🔨  I’m working on Spezia, a mobile, social, health-focused recipebook powered with machine learning.
+* 🌱  I’m learning modern algebra and more philosophy this semester, taking the time I'd spend on CS courses to do CS research.
 * 💬  Ask me about how Philosophy is incredibly useful for a computer scientist!
 
 
