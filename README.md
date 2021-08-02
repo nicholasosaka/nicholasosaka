@@ -1,12 +1,10 @@
-### Hi, I'm Nikko 👋
-I'm an undergraduate student majoring in Computer Science and Philosophy at UNC Charlotte. Find me reading books or drinking coffee.
+### Hi, I'm Nikko 👋 (he/him)
+I'm an undergraduate student majoring in Computer Science and Philosophy at UNC Charlotte. Currently, I'm a research assistant for a machine learning lab and a teaching assistant for Intro to Natural Language Processing (ITCS 4111).
 
-* 🔨  I’m working on Spezia, a mobile, social, health-focused recipebook powered with machine learning.
-* 🌱  I’m learning modern algebra and more philosophy this semester, taking the time I'd spend on CS courses to do CS research.
-* 🖋️  I'm currently writing a piece on the culture of NFTs: asset ownership and metapolitics of digital tokens.
-* 💬  Ask me about how philosophy is incredibly useful for a computer scientist!
+Find me reading books or drinking coffee.
 
-
+* 🔨  I’m working on AutoGrader, a CLI tool for the Canvas LMS to reduce grading work through NLP
+* 🌱  I'm currently learning about cloud infrastructure and the intersection with machine learning pipelines.
 
 [![Nikko's github stats](https://github-readme-stats.vercel.app/api?username=nosaka0&count_private=true&show_icons=true&theme=nord)](https://github.com/nosaka0/github-readme-stats)
 
