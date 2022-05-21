@@ -1,10 +1,7 @@
-### Hi, I'm Nikko 👋 (he/him)
-I'm an undergraduate student majoring in Computer Science and Philosophy at UNC Charlotte. Currently, I'm a research assistant for a machine learning lab and a teaching assistant for Intro to Natural Language Processing (ITCS 4111).
+### Hi, I'm Nikko 👋 (he/they)
+I'm a recent graduate from the University of North Carolina at Charlotte, where I graduated Summa Cum Laude with two degrees: a B.S. in Computer Science, a B.A. in Philosophy, and a minor in Mathematics.
 
 Find me reading books or drinking coffee.
-
-* 🔨  I’m working on AutoGrader, a CLI tool for the Canvas LMS to reduce grading work through NLP
-* 🌱  I'm currently learning about cloud infrastructure and the intersection with machine learning pipelines.
 
 [![Nikko's github stats](https://github-readme-stats.vercel.app/api?username=nosaka0&count_private=true&show_icons=true&theme=nord)](https://github.com/nosaka0/github-readme-stats)
 
