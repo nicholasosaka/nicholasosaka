@@ -1,5 +1,7 @@
-### Hi, I'm Nikko 👋 (he/they)
-I'm a recent graduate from the University of North Carolina at Charlotte, where I graduated Summa Cum Laude with two degrees: a B.S. in Computer Science, a B.A. in Philosophy, and a minor in Mathematics.
+### Hi, I'm Nikko 👋 (they/he)
+I’m a graduate student studying Philosophy in the Ethics & Applied Philosophy program at the University of North Carolina at Charlotte. I am interested in philosophy of technology, in particular as we can intersect problems of artificial intelligence/machine learning with the social and political, through the lens of feminist philosophy, queer and trans philosophy, crip philosophy, Asian-American diasporic philosophy, and social/political philosophy broadly.
+
+I'm also a solution architect.
 
 Find me reading books or drinking coffee.
 
