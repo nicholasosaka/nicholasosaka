@@ -1,7 +1,10 @@
-### Hi, I'm Nikko 👋 (they/he)
+### Hi, I'm Nikko 👋
+
 I’m a graduate student studying Philosophy in the Ethics & Applied Philosophy program at the University of North Carolina at Charlotte. I am interested in philosophy of technology, in particular as we can intersect problems of artificial intelligence/machine learning with the social and political, through the lens of feminist philosophy, queer and trans philosophy, crip philosophy, Asian-American diasporic philosophy, and social/political philosophy broadly.
 
 I'm also a solution architect.
+
+I use they/them/theirs pronouns. ([What are personal pronouns and why do they matter?](https://pronouns.org/what-and-why))
 
 Find me reading books or drinking coffee.
 
