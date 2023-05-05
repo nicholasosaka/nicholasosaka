@@ -1,8 +1,6 @@
 ### Hi, I'm Nikko 👋
 
-I’m a graduate student studying Philosophy in the Ethics & Applied Philosophy program at the University of North Carolina at Charlotte. I am interested in philosophy of technology, in particular as we can intersect problems of artificial intelligence/machine learning with the social and political, through the lens of feminist philosophy, queer and trans philosophy, crip philosophy, Asian-American diasporic philosophy, and social/political philosophy broadly.
-
-I'm also a solution architect.
+I'm a writer, worker in tech, and graduate student studying philosophy at the University of North Carolina at Charlotte. I write about Asian/-American feminism, philosophy of technology, and fintech (particularly blockchain technology). My philosophical interests include the history of statistics and computing, cybernetics, diasporic feminist and queer theory, and critiques of neoliberalism. While my interests are always in motion, I find home in the frameworks offered in feminist, queer, and disability theory.
 
 I use they/them/theirs pronouns. ([What are personal pronouns and why do they matter?](https://pronouns.org/what-and-why))
 
