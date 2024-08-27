@@ -1,6 +1,6 @@
 ### Hi, I'm Nikko 👋
 
-I'm a writer, worker in tech, and graduate student studying philosophy at the University of North Carolina at Charlotte. I write about Asian/-American feminism, philosophy of technology, and fintech (particularly blockchain technology). My philosophical interests include the history of statistics and computing, cybernetics, diasporic feminist and queer theory, and critiques of neoliberalism. While my interests are always in motion, I find home in the frameworks offered in feminist, queer, and disability theory.
+I'm a data platform engineer and writer. I write about Asian/-American feminism, and philosophy of technology. My philosophical interests include the history of statistics and computing, cybernetics, diasporic feminist and queer theory, and critiques of neoliberalism. While my interests are always in motion, I find home in the frameworks offered in feminist, queer, and disability theory.
 
 I use they/them/theirs pronouns. ([What are personal pronouns and why do they matter?](https://pronouns.org/what-and-why))
 
