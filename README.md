@@ -1,6 +1,10 @@
 ### Hi, I'm Nikko 👋
 
-I'm a data platform engineer and writer. I write about Asian/-American feminism, and philosophy of technology. I build infrastructure on Amazon EMR and EC2 for big data processing pipelines.
+I'm a data platform engineer and writer.
+
+I primarily work on building reliable big data compute platforms.
+
+I write about Asian/-American feminism, and philosophy of technology.
 
 See my latest [resume](https://nosaka.xyz/resume) and [CV](https://nosaka.xyz/cv).
 
