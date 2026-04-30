@@ -1,10 +1,10 @@
 ### Hi, I'm Nikko 👋
 
-I'm a data platform engineer and writer.
+I'm a platform engineer and writer.
 
 I primarily work on building reliable big data compute platforms.
 
-I write about Asian/-American feminism, and philosophy of technology.
+I write about philosophy of technology, in conversation with feminist and Asian philosophies.
 
 See my latest [resume](https://nosaka.xyz/resume) and [CV](https://nosaka.xyz/cv).
 
