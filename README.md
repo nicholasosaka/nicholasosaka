@@ -1,6 +1,6 @@
 ### Hi, I'm Nikko 👋
 
-I'm a platform engineer and writer.
+I'm a site reliability engineer and writer.
 
 I primarily work on building reliable big data compute platforms.
 
